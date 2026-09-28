@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started - Anil
 
 This page tours the main window and then takes you from an empty app to an
 exported App Store screenshot.
